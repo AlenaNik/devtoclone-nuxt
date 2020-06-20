@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-dev-to-clone",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.13.0",
+    "vue": "^2.6.11",
+    "vue-content-placeholders": "^0.2.1",
+    "vue-observe-visibility": "^0.4.6",
+    "vuesax": "^4.0.1-alpha.20"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "@nuxtjs/svg": "^0.1.11",
+    "sass": "^1.26.8",
+    "sass-loader": "^8.0.2"
+  }
+}
